@@ -1,0 +1,11 @@
+#content{
+	float: right;
+	padding: 40px 60px 0 0;
+}
+
+#sidebar {
+	position: relative;
+	padding-left: 100px;
+	margin-top: -40px;
+	float: left;
+}

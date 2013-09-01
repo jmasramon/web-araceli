@@ -1,0 +1,16 @@
+#sidebarContainer {
+	float: right;
+	margin-right: -10px;
+}
+
+#content {
+	margin-right: 300px;
+}
+
+#contentContainer {
+	margin-left: 75px;
+}
+
+#sidebarContent {
+	margin-right: 50px;
+}

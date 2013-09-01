@@ -1,0 +1,9 @@
+#content{
+	padding: 20px 0 0 100px;
+	width: 770px;
+	display: block;
+}
+
+#sidebar {
+	display: none;
+}

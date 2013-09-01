@@ -1,0 +1,15 @@
+.blog-entry {
+	background: url(../../images/blog_entry_bkg_star.gif) no-repeat left 10px;
+}
+
+html>body .blog-entry {
+	background: url(../../images/blog_entry_bkg_star.png) no-repeat left 10px;
+}
+
+#titleBackground {
+	background: url(../../images/title_background.gif) no-repeat;
+}
+
+html>body #titleBackground {
+	background: url(../../images/title_background.png) no-repeat;
+}

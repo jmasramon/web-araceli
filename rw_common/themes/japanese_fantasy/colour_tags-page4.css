@@ -1,0 +1,37 @@
+/* TEXT COLORS */
+
+#featureImage div h1{ color:#EEEEEE;}
+#featureImage div h2{color:#EEEEEE;}
+h2#aside{color:%colour_side_title%;}
+
+h1, h2, h3, h4, h5, h6, 
+.blog-entry-title a, 
+.blog-entry-date,
+span.blog-read-more a,
+.message-text,
+.album-title, 
+.movie-title, 
+.movie-page-title, 
+.photo-title,
+#subNav ul ul:before,
+#blog-categories:before,
+#blog-archives:before,
+ul.blog-tag-cloud:before,
+#blog-rss-feeds:before{color:#6B0808;}
+
+#content, #sidebar{color: #000000;}
+
+a{color:#669933;}
+a:hover{color:#7FBF3F;}
+
+#nav a, #footer a{color:#FFFFCC;}
+#nav a:hover, #footer a:hover{color:#FFFFFF;}
+#nav a.current, #nav a.currentAncestor {color:#FFFFFF;}
+
+#subNav a{color:#669933;}
+#subNav a:hover{color:#7FBF3F;}
+#subNav a.current, #subNav a.currentAncestor{color:#669933;}
+
+#footer{color: #EEEEEE;}
+#footer ul li a{color:#669933;}
+#footer ul li a:hover{color:#7FBF3F;}

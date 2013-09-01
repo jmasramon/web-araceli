@@ -1,0 +1,55 @@
+.navcontainer .current a {
+	background: url(../../images/menu_hover.gif) no-repeat;
+}
+
+html>body .navcontainer .current a {
+	background: url(../../images/menu_hover.png) no-repeat;
+}
+
+.navcontainer .current a:hover {
+	background: url(../../images/menu_hover.gif) no-repeat;
+}
+
+html>body .navcontainer .current a:hover {
+	background: url(../../images/menu_hover.png) no-repeat;
+}
+
+.navcontainer .current a:visited {
+	background: url(../../images/menu_hover.gif) no-repeat;
+}
+
+html>body .navcontainer .current a:visited {
+	background: url(../../images/menu_hover.png) no-repeat;
+}
+
+.navcontainer .currentAncestor {
+	background: url(../../images/menu_hover.gif) no-repeat;
+}
+
+html>body .navcontainer .currentAncestor {
+	background: url(../../images/menu_hover.png) no-repeat;
+}
+
+.navcontainer .currentAncestor a {
+	background: url(../../images/menu_hover.gif) no-repeat;
+}
+
+html>body .navcontainer .currentAncestor a {
+	background: url(../../images/menu_hover.png) no-repeat;
+}
+
+.subnavcontainer a {
+	color: #e0a46d;
+}
+
+.subnavcontainer a:visited, .subnavcontainer a:hover, .subnavcontainer a:active {
+	color: #e0a46d;
+}
+
+.subnavcontainer ul ul a {
+	background-color: #bb4815;
+}
+
+.subnavcontainer ul ul {
+	border-color: #bb4815;
+}

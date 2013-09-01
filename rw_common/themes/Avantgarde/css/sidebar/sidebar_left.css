@@ -1,0 +1,15 @@
+#sidebarContainer {
+	float: left;
+}
+
+#content {
+	margin-left: 300px;
+}
+
+#sidebarContent {
+	margin-left: 50px;
+}
+
+#contentContainer {
+	margin-right: 50px;
+}
